@@ -4,3 +4,9 @@
 [submodule "processing/depth_color_depth"]
 	path = processing/depth_color_depth
 	url = https://github.com/n1ckfg/depth_color_depth
+[submodule "unity/holoflix_testing"]
+	path = unity/holoflix_testing
+	url = https://github.com/n1ckfg/holoflix_testing
+[submodule "unity/sandbox/Assets/UnityPointCloud"]
+	path = unity/sandbox/Assets/UnityPointCloud
+	url = https://github.com/n1ckfg/UnityPointCloud
