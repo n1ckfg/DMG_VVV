@@ -7,6 +7,3 @@
 [submodule "unity/holoflix_testing"]
 	path = unity/holoflix_testing
 	url = https://github.com/n1ckfg/holoflix_testing
-[submodule "unity/sandbox/Assets/UnityPointCloud"]
-	path = unity/sandbox/Assets/UnityPointCloud
-	url = https://github.com/n1ckfg/UnityPointCloud
