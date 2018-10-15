@@ -7,3 +7,9 @@
 [submodule "unity/holoflix_testing"]
 	path = unity/holoflix_testing
 	url = https://github.com/n1ckfg/holoflix_testing
+[submodule "processing/Kinect_Frame_Grabber"]
+	path = processing/Kinect_Frame_Grabber
+	url = https://github.com/n1ckfg/Kinect_Frame_Grabber
+[submodule "processing/holoflix_reader"]
+	path = processing/holoflix_reader
+	url = https://github.com/n1ckfg/holoflix_reader
