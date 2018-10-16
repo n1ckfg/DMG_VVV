@@ -16,3 +16,6 @@
 [submodule "python/pseudoscience_stereo2depth"]
 	path = python/pseudoscience_stereo2depth
 	url = https://github.com/n1ckfg/pseudoscience_stereo2depth
+[submodule "processing/MeshSequencer"]
+	path = processing/MeshSequencer
+	url = https://github.com/n1ckfg/MeshSequencer
