@@ -13,3 +13,6 @@
 [submodule "processing/holoflix_reader"]
 	path = processing/holoflix_reader
 	url = https://github.com/n1ckfg/holoflix_reader
+[submodule "python/pseudoscience_stereo2depth"]
+	path = python/pseudoscience_stereo2depth
+	url = https://github.com/n1ckfg/pseudoscience_stereo2depth
