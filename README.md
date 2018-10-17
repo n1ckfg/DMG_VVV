@@ -2,14 +2,20 @@
 DMG VVV workshop, 12 oct - 14 oct 2018
 
 ### Processing
-Kinect_Frame_Grabber: stop motion with an OpenNI camera
-MeshSequencer: various experiments converting depth images into meshes
-depth_color_depth: examples converting between grayscale and color depth formats
-holoflix_reader: convert between Holoflix and Depthkit image formats
-kinect_syphon: stream an OpenNI camera over Syphon or Spout
+<ul>
+  <li>Kinect_Frame_Grabber: stop motion with an OpenNI camera</li>
+  <li>MeshSequencer: various experiments converting depth images into meshes</li>
+  <li>depth_color_depth: examples converting between grayscale and color depth formats</li>
+  <li>holoflix_reader: convert between Holoflix and Depthkit image formats</li>
+  <li>kinect_syphon: stream an OpenNI camera over Syphon or Spout</li>
+</ul>
 
 ### Python
-pseudoscience_stereo2depth: generate a depth pass from 360 or 180 stereo videos
+<ul>
+  <li>pseudoscience_stereo2depth: generate a depth pass from 360 or 180 stereo videos</li>
+</ul>
 
 ### Unity
-holoflix_testing: view Holoflix videos in Unity
+<ul>
+  <li>holoflix_testing: view Holoflix videos in Unity</li>
+</ul>
