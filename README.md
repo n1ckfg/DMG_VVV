@@ -12,7 +12,7 @@ DMG VVV workshop, 12 oct - 14 oct 2018
 
 ### Python
 <ul>
-  <li>pseudoscience_stereo2depth: generate a depth pass from 360 or 180 stereo videos</li>
+  <li>pseudoscience_stereo2depth: generate a depth pass from 360 or 180 stereo RGB videos</li>
 </ul>
 
 ### Unity
